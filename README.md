@@ -105,7 +105,6 @@ Sistema de console desenvolvido em colaboração para gerenciar usuários, livro
 ## Tecnologias
 
 <p>
-  <a href="https://portfolio-joao-victor.pages.dev/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Web-C6F779?style=for-the-badge" alt="Visitar meu portfólio web"></a>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" alt="Angular">
