@@ -1,12 +1,19 @@
 <div align="center">
 
+<sub>PORTFÓLIO DE DESENVOLVIMENTO</sub>
+
 # João Victor Machado
+### Java · Spring Boot · Desenvolvimento Web
 
-### Engenharia de Software · Java & Desenvolvimento Web
+Estudante de Engenharia de Software com foco em backend Java.<br>
+Da modelagem de regras de negócio à construção de APIs e interfaces web.
 
-Construindo aplicações para transformar problemas do dia a dia em soluções práticas.
+<p>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-8311ab353"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge" alt="Conversar no LinkedIn"></a>
+  <a href="https://ipet-web-7mu.pages.dev/"><img src="https://img.shields.io/badge/iPet-Ver_projeto_online-16803C?style=for-the-badge" alt="Ver demonstração do iPet"></a>
+</p>
 
-[Projetos](#projetos-em-destaque) · [LinkedIn](https://www.linkedin.com/in/joão-victor-8311ab353) · [Conheça o iPet](https://ipet-web-7mu.pages.dev/)
+[Projetos em destaque](#projetos-em-destaque) &nbsp; / &nbsp; [Tecnologias](#tecnologias) &nbsp; / &nbsp; [Contato](#contato)
 
 </div>
 
@@ -14,47 +21,82 @@ Construindo aplicações para transformar problemas do dia a dia em soluções p
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvo projetos para colocar em prática fundamentos de programação, orientação a objetos e desenvolvimento de aplicações.
+Desenvolvo projetos acadêmicos e pessoais para aplicar **orientação a objetos, persistência de dados e desenvolvimento web**. Meu foco atual é o ecossistema **Java e Spring Boot**, com projetos que exploram autenticação, regras de negócio e APIs REST.
 
-Meu portfólio reúne **backend com Java e Spring Boot** e **interfaces web com HTML, CSS e JavaScript**. Tenho interesse em criar soluções úteis, entender as decisões por trás do código e evoluir por meio de projetos e colaboração.
-
-## Tecnologias nos meus projetos
-
-| Área | Tecnologias e conceitos |
-| --- | --- |
-| Backend | Java · Spring Boot · APIs REST · Maven |
-| Persistência | Spring Data JPA · H2 |
-| Web | HTML · CSS · JavaScript · localStorage |
-| Fundamentos | Orientação a objetos · coleções · validação de dados |
-| Versionamento | Git · GitHub |
+Também construo interfaces com HTML, CSS e JavaScript. Abaixo, selecionei três projetos que mostram diferentes partes desse trabalho — com código, instruções e uma demonstração disponível no navegador.
 
 ## Projetos em destaque
 
-### [TaskManager API](https://github.com/JVictorMachado/task-manager-api)
-**Java 21 · Spring Boot · JPA · H2 · BCrypt**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-API de tarefas com cadastro de usuários, autenticação HTTP Basic, criação, consulta e atualização de tarefas. Trabalha a associação entre tarefas e usuários e a validação de datas.
+### 01 &nbsp; TaskManager API
+**Backend · Java 21 & Spring Boot**
 
-**Explore:** [código e instruções de execução](https://github.com/JVictorMachado/task-manager-api#readme).
+API de gerenciamento de tarefas com cadastro de usuários, autenticação HTTP Basic e persistência com JPA e H2.
 
-### [iPet — Animais perdidos e encontrados](https://github.com/JVictorMachado/ipet)
-**HTML · CSS · JavaScript**
+**O que demonstra**
+- Hash de senhas com BCrypt.
+- Tarefas associadas ao usuário autenticado.
+- Validação de datas e autoria na atualização.
 
-MVP acadêmico para divulgar e buscar animais perdidos e encontrados, com filtros e gerenciamento de anúncios. Usa armazenamento local no navegador e login demonstrativo.
+[**Explorar código e execução →**](https://github.com/JVictorMachado/task-manager-api#readme)
 
-**Explore:** [demonstração online](https://ipet-web-7mu.pages.dev/) · [código e escopo do MVP](https://github.com/JVictorMachado/ipet#readme).
+</td>
+<td width="50%" valign="top">
 
-### [Biblioteca Acadêmica](https://github.com/JVictorMachado/BibliotecaPooFaculdade)
-**Java · Programação Orientada a Objetos**
+### 02 &nbsp; iPet
+**Web · HTML, CSS & JavaScript**
 
-Projeto acadêmico desenvolvido em colaboração para gerenciar usuários, livros, empréstimos e devoluções pelo console. Aplica encapsulamento, herança, polimorfismo e coleções em memória.
+MVP acadêmico para divulgação de animais perdidos e encontrados, com busca, filtros e gerenciamento de anúncios.
 
-**Explore:** [estrutura, conceitos e execução](https://github.com/JVictorMachado/BibliotecaPooFaculdade#readme).
+**O que demonstra**
+- Fluxos de publicação e consulta.
+- Persistência local com localStorage.
+- Organização de uma aplicação web sem framework.
 
-## Vamos conversar
+[**Abrir demonstração →**](https://ipet-web-7mu.pages.dev/) &nbsp; [Código](https://github.com/JVictorMachado/ipet)
 
-Para conversar sobre projetos, colaboração e oportunidades em desenvolvimento de software, conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/joão-victor-8311ab353).
+<sub>Dados locais ao navegador e login demonstrativo.</sub>
+
+</td>
+</tr>
+</table>
+
+### 03 &nbsp; Biblioteca Acadêmica
+**Fundamentos · Java & Orientação a Objetos**
+
+Sistema de console desenvolvido em colaboração para gerenciar usuários, livros, empréstimos e devoluções. Aplica **encapsulamento, herança, polimorfismo e coleções**, com regras diferentes para alunos e professores e armazenamento em memória.
+
+[**Explorar conceitos e execução →**](https://github.com/JVictorMachado/BibliotecaPooFaculdade#readme)
+
+## Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=181717" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+| Aplicação | Tecnologias e conceitos presentes no portfólio |
+| :--- | :--- |
+| Backend | Java · Spring Boot · Spring Web · APIs REST · Maven |
+| Dados | Spring Data JPA · H2 · coleções em memória |
+| Autenticação | HTTP Basic · filtros HTTP · BCrypt |
+| Frontend | HTML · CSS · JavaScript · localStorage |
+| Fundamentos e ferramentas | POO · validação de dados · Git · GitHub |
+
+## Contato
+
+Quer conversar sobre uma oportunidade em desenvolvimento ou sobre algum dos projetos?<br>
+[**Conecte-se comigo no LinkedIn →**](https://www.linkedin.com/in/jo%C3%A3o-victor-8311ab353)
 
 ---
 
-<sub>Este perfil apresenta projetos práticos e acadêmicos. Cada repositório documenta seu escopo, suas tecnologias e suas limitações.</sub>
+<div align="center">
+<sub>João Victor Machado · Aprendizado aplicado em projetos.</sub>
+</div>
