@@ -12,14 +12,20 @@ Bacharelando em Sistemas de Informação no UDF.
 <p>
   <a href="https://portfolio-joao-victor.pages.dev/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Web-C6F779?style=for-the-badge" alt="Visitar meu portfólio web"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-8311ab353"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge" alt="Conversar no LinkedIn"></a>
-  <a href="https://ipet-web-7mu.pages.dev/"><img src="https://img.shields.io/badge/iPet-Ver_projeto_online-16803C?style=for-the-badge" alt="Ver demonstração do iPet"></a>
 </p>
 
-[Projetos em destaque](#projetos-em-destaque) &nbsp; / &nbsp; [Tecnologias](#tecnologias) &nbsp; / &nbsp; [Contato](#contato)
+[Projetos publicados](#projetos-publicados) &nbsp; / &nbsp; [Projetos em destaque](#projetos-em-destaque) &nbsp; / &nbsp; [Tecnologias](#tecnologias) &nbsp; / &nbsp; [Contato](#contato)
 
 </div>
 
 ---
+
+## Projetos publicados
+
+| Projeto | Acessar |
+| --- | --- |
+| **Portfólio pessoal** | [Visitar portfólio](https://portfolio-joao-victor.pages.dev/) |
+| **iPet** | [Ver projeto online](https://ipet-web-7mu.pages.dev/) |
 
 ## Sobre mim
 
