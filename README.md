@@ -2,11 +2,12 @@
 
 <sub>PORTFÓLIO DE DESENVOLVIMENTO</sub>
 
-# João Victor Machado
-### Java · Spring Boot · Desenvolvimento Web
+# João Victor Machado Reino
+### Desenvolvedor Back-end .NET
+**C# · ASP.NET Core · Entity Framework Core · APIs REST**
 
-Estudante de Engenharia de Software com foco em backend Java.<br>
-Da modelagem de regras de negócio à construção de APIs e interfaces web.
+Experiência em integrações de sistemas, bancos relacionais e aplicações web.<br>
+Bacharelando em Sistemas de Informação no UDF.
 
 <p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-8311ab353"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge" alt="Conversar no LinkedIn"></a>
@@ -21,11 +22,41 @@ Da modelagem de regras de negócio à construção de APIs e interfaces web.
 
 ## Sobre mim
 
-Desenvolvo projetos acadêmicos e pessoais para aplicar **orientação a objetos, persistência de dados e desenvolvimento web**. Meu foco atual é o ecossistema **Java e Spring Boot**, com projetos que exploram autenticação, regras de negócio e APIs REST.
+Sou desenvolvedor com experiência em **APIs REST e aplicações web com C#, ASP.NET Core e Entity Framework Core**. Trabalho com implementação de regras de negócio, integração de sistemas e modelagem de bancos relacionais, com atenção à organização do código, performance e estabilidade.
 
-Também construo interfaces com HTML, CSS e JavaScript. Abaixo, selecionei três projetos que mostram diferentes partes desse trabalho — com código, instruções e uma demonstração disponível no navegador.
+Minha atuação também inclui frontend com **Angular** e desenvolvimento com **Java e Spring Boot**, além de Git, Docker e práticas de CI/CD em equipes ágeis.
+
+## Experiência profissional
+
+### PAIPE | GOVER TECH
+**Desenvolvedor Full Stack .NET · Remoto · jun/2026 – atual**
+
+Atuação em projeto para a **SUFRAMA — Superintendência da Zona Franca de Manaus**.
+
+- Desenvolvimento e evolução de APIs REST com ASP.NET Core e Entity Framework Core.
+- Implementação de regras de negócio, integrações e manipulação de dados em Oracle.
+- Desenvolvimento e manutenção de aplicações Angular.
+- Correção de bugs e melhorias de performance e estabilidade.
+- Uso de Git, Docker, Jira e GitHub Actions em ambiente ágil.
+
+### CreativeDucks Tech
+**Desenvolvedor Full Stack · Remoto · abr/2025 – jun/2026**
+
+- Integração entre sistemas e otimização de fluxos de backend.
+- Modelagem e manipulação de dados com Entity Framework Core.
+- Uso de Git, Docker e práticas de CI/CD em ambiente ágil.
+- Desenvolvimento e manutenção de APIs REST com Java e Spring Boot e participação em aplicações frontend.
+
+## Formação e idiomas
+
+**Bacharelado em Sistemas de Informação** — UDF · Centro Universitário de Brasília<br>
+2025 – 2028 · Em andamento
+
+**Português:** nativo &nbsp; · &nbsp; **Inglês:** intermediário
 
 ## Projetos em destaque
+
+Os repositórios públicos abaixo complementam minha experiência profissional com exemplos de backend Java, desenvolvimento web e orientação a objetos. As tecnologias da minha atuação profissional estão detalhadas na seção de competências.
 
 <table>
 <tr>
@@ -74,21 +105,22 @@ Sistema de console desenvolvido em colaboração para gerenciar usuários, livro
 ## Tecnologias
 
 <p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" alt="Angular">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=181717" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-| Aplicação | Tecnologias e conceitos presentes no portfólio |
+| Área | Competências |
 | :--- | :--- |
-| Backend | Java · Spring Boot · Spring Web · APIs REST · Maven |
-| Dados | Spring Data JPA · H2 · coleções em memória |
-| Autenticação | HTTP Basic · filtros HTTP · BCrypt |
-| Frontend | HTML · CSS · JavaScript · localStorage |
-| Fundamentos e ferramentas | POO · validação de dados · Git · GitHub |
+| Backend | C# · ASP.NET Core Web API · Entity Framework Core · Java · Spring Boot |
+| Arquitetura e APIs | APIs REST · microsserviços · SOLID · Swagger/OpenAPI |
+| Bancos de dados | Oracle · PostgreSQL · MySQL |
+| Frontend | Angular · React · Bootstrap · jQuery · HTML · CSS · JavaScript |
+| Entrega e ferramentas | Git · Docker · GitHub Actions · CI/CD · Jira |
+| Métodos de trabalho | Scrum · Kanban |
 
 ## Contato
 
@@ -98,5 +130,5 @@ Quer conversar sobre uma oportunidade em desenvolvimento ou sobre algum dos proj
 ---
 
 <div align="center">
-<sub>João Victor Machado · Aprendizado aplicado em projetos.</sub>
+<sub>João Victor Machado Reino · Backend .NET e desenvolvimento web.</sub>
 </div>
