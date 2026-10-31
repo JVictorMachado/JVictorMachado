@@ -45,7 +45,6 @@ Atuação em projeto para a **SUFRAMA — Superintendência da Zona Franca de Ma
 - Integração entre sistemas e otimização de fluxos de backend.
 - Modelagem e manipulação de dados com Entity Framework Core.
 - Uso de Git, Docker e práticas de CI/CD em ambiente ágil.
-- Desenvolvimento e manutenção de APIs REST com Java e Spring Boot e participação em aplicações frontend.
 
 ## Formação e idiomas
 
